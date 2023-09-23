@@ -31,6 +31,7 @@ section#telefone {
     height: 627px;
     width: 311px;
     background: url(../imagens/frame-iphone.png) no-repeat;
+    
 }
 
 iframe#tela {
@@ -81,7 +82,7 @@ section#redes-sociais img:hover {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
     section#redes-sociais img {
         width: 45px;
         margin: 8px;
@@ -99,7 +100,10 @@ section#redes-sociais img:hover {
             
         
         }
-
+    
+    section#telefone {
+        margin-top: -6%;
+    }
        
         
     }
