@@ -96,17 +96,13 @@ section#redes-sociais img:hover {
             display: flex;
             flex-direction: row;
             align-items: flex-end;
-            margin: 0 auto 5px auto;
-            
-        
+            margin: 0 auto; 
         }
     
     section#telefone {
-        margin-top: -6%;
-    }
-       
-        
-    }
+        margin-top: -40px;
+    }         
+}
 
 ::-webkit-scrollbar{
     width: 0px;
