@@ -95,17 +95,13 @@ section#redes-sociais img:hover {
          
             display: flex;
             flex-direction: row;
-            align-items: flex-end;
-            margin: 0 auto; 
+           justify-content: center;
+           margin: 0 auto;
         }
     
-    section#telefone {
-        margin-top: -40px;
-    }         
-}
 
 ::-webkit-scrollbar{
     width: 0px;
     height: 0px;
     }
-
+}
