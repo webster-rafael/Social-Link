@@ -81,7 +81,7 @@ section#redes-sociais img:hover {
     }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 800px) {
     section#redes-sociais img {
         width: 45px;
         margin: 8px;
